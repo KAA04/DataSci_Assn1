@@ -15,7 +15,8 @@ This repository contains a Jupyter Notebook and an accompanying analysis report 
      - Loading Data  
      - Verifying Data  
      - Normalizing Data  
-     - Choosing Important Attributes  
+     - Choosing Important Attributes
+     - Split Data
 
   2. **2.2 Model Construction**  
      - Construction of **SGD Regression Model**  
